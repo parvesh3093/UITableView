@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootViewController.h
 //  UITableView
 //
 //  Created by Mac on 12/09/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RootViewController : UITableViewController
 
 @end
-
